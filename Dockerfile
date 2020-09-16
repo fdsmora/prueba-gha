@@ -1,3 +1,3 @@
-FROM ngnix:1.19-alpine
+FROM ngnix:latest
 
 ADD index.html /usr/share/nginx/html
